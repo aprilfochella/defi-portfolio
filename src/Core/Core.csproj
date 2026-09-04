@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>DefiPort.Core</RootNamespace>
+    <AssemblyName>DefiPort.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
